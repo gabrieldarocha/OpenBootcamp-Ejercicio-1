@@ -1,9 +1,9 @@
-public class ejercicioIf {
+public class Ejercicio_If {
 
     public static void main(String[] args) {
-        int numerolf;
+        int numerolf = 0;
         //if
-        if (numerolf < 0){
+        if (numerolf < 0) {
             System.out.println("Negativo");
         } else if (numerolf > 0) {
             System.out.println("Positivo");
