@@ -2,7 +2,7 @@ import java.math.RoundingMode;
 import java.text.DecimalFormat;
 
 public class Principal {
-    //DecimalFormat para imprimir con 2 decimales luego del último punto
+    //DecimalFormat para imprimir con 2 decimales luego del punto
     private static final DecimalFormat crFm = new DecimalFormat("0.00");
     public static void main(String[] args) {
 
